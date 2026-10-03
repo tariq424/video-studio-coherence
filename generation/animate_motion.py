@@ -1,0 +1,2 @@
+# AnimateDiff-based motion generation
+
